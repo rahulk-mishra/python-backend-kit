@@ -1,0 +1,8 @@
+{
+    "MERCHANT_ID": "merchant_id.pem",
+    "PAYMENT_PAGE_CLIENT_ID": "your-client-id",
+    "KEY_UUID": "key_id.pem",
+    "PUBLIC_KEY_PATH": "public_key.pem",
+    "PRIVATE_KEY_PATH": "private_key.pem",
+    "BASE_URL": "https://sandbox.juspay.in"
+}
